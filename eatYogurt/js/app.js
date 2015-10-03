@@ -13,6 +13,7 @@ var acceler = 0;
 
 var stage = new createjs.Stage("gameView");
 
+
 createjs.Ticker.setFPS(500);
 
         for (var i = 0; i < num; i++) {
